@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.hussain.quizhollic"
+    versionCode = "1"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Quizhollic</name>
+
+  <description>
+      A better Quiz Game.
+  </description>
+
+  <author href="https://hussainsaifsgamecorner.blogspot.com/" email="hussainsaif384@gmail.com">
+      Hussain Saif
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
